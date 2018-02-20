@@ -1,3 +1,5 @@
+[![Docker Automated build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/djesionek/ubuntu-texlive/)
+
 # Ubuntu Texlive container
 This container is intended to be used for compilation of LaTeX documents.
 
